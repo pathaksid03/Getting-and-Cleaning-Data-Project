@@ -1,7 +1,7 @@
 Getting-and-Cleaning-Data-Project
 =================================
 
-The repo for Getting and Cleaning Data Course Project. 
+The repository is for Getting and Cleaning Data Course Project. 
 
 
 The run_analysis.R that does the following:
