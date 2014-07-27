@@ -1,7 +1,7 @@
 # 1. Merge the training and the test sets to create one data set.
 
 #set working directory 
-setwd('/siddharth/UCI HAR Dataset/');
+setwd("/home/siddharth/UCI HAR Dataset/");
 
 # Read in the data from files
 features     = read.table('./features.txt',header=FALSE); 
